@@ -1,5 +1,5 @@
-nginx/
 composer/
 pgdata/
-data/
+nginx/log/*.log
+data/*.log
 rabbitmq/
