@@ -3,7 +3,7 @@ Run next actions in console from the root of the project:
 
 1. Install latest docker version
 2. Install latest docker-compose version
-3. git clone git@gitlab.com:moofik12/masterhome.git 
+3. git clone git@github.com:moofik/scalable_api_testtask.git
 4. Run from the root of the project: sh docker/install.sh (if you have permissions error, you can use sudo or grant permissions to docker)
 5. Run command echo 127.0.0.1 testtask.local | sudo tee -a /etc/hosts
 
