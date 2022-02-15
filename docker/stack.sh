@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
 SCRIPT_DIR=$(readlink -e $(dirname $0))
 

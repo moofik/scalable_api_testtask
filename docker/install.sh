@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 . $(dirname $0)/script/functions.sh
 
 SCRIPT_DIR=$(readlink -e $(dirname $0))
